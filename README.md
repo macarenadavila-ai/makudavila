@@ -12,3 +12,4 @@ Web one-page estática para presentar el servicio de acompañamiento integral pa
 ## Publicación en Vercel
 
 Subir esta carpeta como proyecto estático. No requiere instalación de dependencias ni proceso de build.
+Actualización para despliegue.
